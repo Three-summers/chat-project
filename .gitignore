@@ -1,8 +1,10 @@
-build-llfcchat*
+build-chat*
 Debug
 x64
 .vs
-llfcchat.pro.user
+chat.pro.user
 node_modules
 config.ini
 config.json
+build
+*.autosave
