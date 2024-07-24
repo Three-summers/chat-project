@@ -1,0 +1,8 @@
+build-llfcchat*
+Debug
+x64
+.vs
+llfcchat.pro.user
+node_modules
+config.ini
+config.json
